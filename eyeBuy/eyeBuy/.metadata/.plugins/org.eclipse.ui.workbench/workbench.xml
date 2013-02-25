@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="44" version="2.0">
+<workbenchAdvisor/>
+<window height="735" maximized="true" width="1020" x="0" y="0">
+<fastViewData fastViewLocation="16384">
+<orientation position="512" view="org.eclipse.ui.navigator.ProjectExplorer"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="234" y="34"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="52" y="34"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="80" y="34"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="72" y="34"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="188" y="34"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wb.core.guiEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1356898478167" focus="true" label="Workspace - Resource">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="eyeBuyDAO.java" partName="eyeBuyDAO.java" title="eyeBuyDAO.java" tooltip="/home/k41/projects/DSS1213_eBay/eyeBuy/src/dao/eyeBuyDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/k41/projects/DSS1213_eBay/eyeBuy/src/dao/eyeBuyDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EyeBuy.java" partName="EyeBuy.java" title="EyeBuy.java" tooltip="/home/k41/projects/DSS1213_eBay/eyeBuy/src/model/EyeBuy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/k41/projects/DSS1213_eBay/eyeBuy/src/model/EyeBuy.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="792" selectionTopPixel="146"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoginData.java" partName="LoginData.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/main/LoginData.java" title="LoginData.java" tooltip="eyeBuy/src/main/LoginData.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/main/LoginData.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="646" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VerProduto.java" partName="VerProduto.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/VerProduto.java" title="VerProduto.java" tooltip="eyeBuy/src/gui/VerProduto.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/VerProduto.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Login.java" partName="Login.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/Login.java" title="Login.java" tooltip="eyeBuy/src/gui/Login.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/Login.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MensagemDAO.java" partName="MensagemDAO.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/dao/MensagemDAO.java" title="MensagemDAO.java" tooltip="eyeBuy/src/dao/MensagemDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/dao/MensagemDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="590"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProdutoDAO.java" partName="ProdutoDAO.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/dao/ProdutoDAO.java" title="ProdutoDAO.java" tooltip="eyeBuy/src/dao/ProdutoDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/dao/ProdutoDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11262" selectionTopPixel="3499"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.wb.core.guiEditor" name="Homev3.java" partName="Homev3.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/Homev3.java" title="Homev3.java" tooltip="eyeBuy/src/gui/Homev3.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/Homev3.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10861" selectionTopPixel="4777"/>
+</editor>
+<editor id="org.eclipse.wb.core.guiEditor" name="ConsultarCarrinho.java" partName="ConsultarCarrinho.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/ConsultarCarrinho.java" title="ConsultarCarrinho.java" tooltip="eyeBuy/src/gui/ConsultarCarrinho.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/ConsultarCarrinho.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VerPerfilUtilzador.java" partName="VerPerfilUtilzador.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/VerPerfilUtilzador.java" title="VerPerfilUtilzador.java" tooltip="eyeBuy/src/gui/VerPerfilUtilzador.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/VerPerfilUtilzador.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wb.core.guiEditor" name="VerPerfilUtilzador.java" partName="VerPerfilUtilzador.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/VerPerfilUtilzador.java" title="VerPerfilUtilzador.java" tooltip="eyeBuy/src/gui/VerPerfilUtilzador.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/VerPerfilUtilzador.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wb.core.guiEditor" name="VerProduto.java" partName="VerProduto.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/VerProduto.java" title="VerProduto.java" tooltip="eyeBuy/src/gui/VerProduto.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/VerProduto.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wb.core.guiEditor" name="PaginaVendas.java" partName="PaginaVendas.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/PaginaVendas.java" title="PaginaVendas.java" tooltip="eyeBuy/src/gui/PaginaVendas.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/PaginaVendas.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VerProdutoLeilao.java" partName="VerProdutoLeilao.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/VerProdutoLeilao.java" title="VerProdutoLeilao.java" tooltip="eyeBuy/src/gui/VerProdutoLeilao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/VerProdutoLeilao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wb.core.guiEditor" name="VerProdutoLeilao.java" partName="VerProdutoLeilao.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/gui/VerProdutoLeilao.java" title="VerProdutoLeilao.java" tooltip="eyeBuy/src/gui/VerProdutoLeilao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/gui/VerProdutoLeilao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="37897" selectionTopPixel="14586"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PropostaDAO.java" partName="PropostaDAO.java" path="/home/k41/git/DSS1213_eBay/eyeBuy/src/dao/PropostaDAO.java" title="PropostaDAO.java" tooltip="eyeBuy/src/dao/PropostaDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/eyeBuy/src/dao/PropostaDAO.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="12"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="630" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+</views>
+<perspectives activePart="org.eclipse.wb.core.guiEditor" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.google.gdt.eclipse.designer.actionset"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViews>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.19213313"/>
+</fastViews>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.TaskList" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.29867986"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@17be3bb2" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25940594" ratioLeft="262" ratioRight="748" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6589018" ratioLeft="396" ratioRight="205" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.49916804" ratioLeft="300" ratioRight="301" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/eyeBuy/src/gui/VerProduto.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/eyeBuy/src/dao/ProdutoDAO.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/PerfilUtilizador.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/NovaMensagem.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/eyeBuy/src/dao/MensagemDAO.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/eyeBuy/src/dao/PropostaDAO.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/Homev3.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/ConsultarCarrinho.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/eyeBuy/src/gui/VerPerfilUtilzador.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/VerProduto.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/PaginaVendas.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/eyeBuy/src/gui/VerProdutoLeilao.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" path="/eyeBuy/src/gui/VerProdutoLeilao.java"/>
+</editors>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="33367" y="0"/>
+</item>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="17531" y="0"/>
+</item>
+<item historyLabel="NovaMensagem.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MensagemDAO.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="NovaMensagem.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="NovaMensagem.java" index="3">
+<position info="not_deleted" x="4561" y="0"/>
+</item>
+<item historyLabel="NovaMensagem.java" index="3">
+<position info="not_deleted" x="3068" y="0"/>
+</item>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="17531" y="0"/>
+</item>
+<item historyLabel="MensagemDAO.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="NovaMensagem.java" index="3">
+<position info="not_deleted" x="3068" y="0"/>
+</item>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="17531" y="0"/>
+</item>
+<item historyLabel="MensagemDAO.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="17531" y="0"/>
+</item>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="19530" y="0"/>
+</item>
+<item historyLabel="NovaMensagem.java" index="3">
+<position info="not_deleted" x="3068" y="0"/>
+</item>
+<item historyLabel="PerfilUtilizador.java" index="2">
+<position info="not_deleted" x="19530" y="0"/>
+</item>
+<item historyLabel="MensagemDAO.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PropostaDAO.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MensagemDAO.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ProdutoDAO.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProduto.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ConsultarCarrinho.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ProdutoDAO.java" index="1">
+<position info="not_deleted" x="11262" y="0"/>
+</item>
+<item historyLabel="VerPerfilUtilzador.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProduto.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="10861" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="11038" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="133761" y="0"/>
+</item>
+<item historyLabel="ConsultarCarrinho.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProduto.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ProdutoDAO.java" index="1">
+<position info="not_deleted" x="11262" y="0"/>
+</item>
+<item historyLabel="ConsultarCarrinho.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProduto.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PaginaVendas.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProdutoLeilao.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProdutoLeilao.java" index="12">
+<position info="not_deleted" x="13503" y="0"/>
+</item>
+<item historyLabel="ProdutoDAO.java" index="1">
+<position info="not_deleted" x="11262" y="0"/>
+</item>
+<item historyLabel="PropostaDAO.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="133761" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="14445" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="11970" y="0"/>
+</item>
+<item historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="10861" y="0"/>
+</item>
+<item historyLabel="PaginaVendas.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="VerProdutoLeilao.java" index="12">
+<position info="not_deleted" x="37897" y="0"/>
+</item>
+<item historyLabel="PaginaVendas.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ProdutoDAO.java" index="1">
+<position info="not_deleted" x="11262" y="0"/>
+</item>
+<item historyLabel="PaginaVendas.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Homev3.java" index="6">
+<position info="not_deleted" x="10861" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PropostaDAO.java" tooltip="eyeBuy/src/dao/PropostaDAO.java">
+<persistable path="/eyeBuy/src/dao/PropostaDAO.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="VerProdutoLeilao.java" tooltip="eyeBuy/src/gui/VerProdutoLeilao.java">
+<persistable path="/eyeBuy/src/gui/VerProdutoLeilao.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="PaginaVendas.java" tooltip="eyeBuy/src/gui/PaginaVendas.java">
+<persistable path="/eyeBuy/src/gui/PaginaVendas.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="VerProduto.java" tooltip="eyeBuy/src/gui/VerProduto.java">
+<persistable path="/eyeBuy/src/gui/VerProduto.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="VerPerfilUtilzador.java" tooltip="eyeBuy/src/gui/VerPerfilUtilzador.java">
+<persistable path="/eyeBuy/src/gui/VerPerfilUtilzador.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="ConsultarCarrinho.java" tooltip="eyeBuy/src/gui/ConsultarCarrinho.java">
+<persistable path="/eyeBuy/src/gui/ConsultarCarrinho.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="Homev3.java" tooltip="eyeBuy/src/gui/Homev3.java">
+<persistable path="/eyeBuy/src/gui/Homev3.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProdutoDAO.java" tooltip="eyeBuy/src/dao/ProdutoDAO.java">
+<persistable path="/eyeBuy/src/dao/ProdutoDAO.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MensagemDAO.java" tooltip="eyeBuy/src/dao/MensagemDAO.java">
+<persistable path="/eyeBuy/src/dao/MensagemDAO.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="NovaMensagem.java" tooltip="eyeBuy/src/gui/NovaMensagem.java">
+<persistable path="/eyeBuy/src/gui/NovaMensagem.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="PerfilUtilizador.java" tooltip="eyeBuy/src/gui/PerfilUtilizador.java">
+<persistable path="/eyeBuy/src/gui/PerfilUtilizador.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wb.core.guiEditor" name="Mensagem.java" tooltip="eyeBuy/src/model/mensagens/Mensagem.java">
+<persistable path="/eyeBuy/src/model/mensagens/Mensagem.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Login.java" tooltip="eyeBuy/src/gui/Login.java">
+<persistable path="/eyeBuy/src/gui/Login.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdicionarVenda.java" tooltip="eyeBuy/src/gui/AdicionarVenda.java">
+<persistable path="/eyeBuy/src/gui/AdicionarVenda.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoginData.java" tooltip="eyeBuy/src/main/LoginData.java">
+<persistable path="/eyeBuy/src/main/LoginData.java"/>
+</file>
+</mruList>
+</workbench>

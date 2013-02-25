@@ -1,0 +1,37 @@
+package main;
+
+import java.net.UnknownHostException;
+import java.util.HashMap;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class LoginData {
+
+	private String currentPC;
+	private HashMap<String, OracleAccount> accounts;
+
+	public LoginData() {
+		accounts = new HashMap<String, OracleAccount>();
+		accounts.put("62-PC", new OracleAccount("62-PC", "jdbc:oracle:thin:@192.168.1.99:1521:orcl", "teste", "leilei"));
+		accounts.put("MacBook-Pro-de-Daniel-2.local", new OracleAccount("MacBook-Pro-de-Daniel-2.local", "jdbc:oracle:thin:@192.168.1.99:1521:orcl", "teste", "leilei"));
+		accounts.put("62-PC", new OracleAccount("62-PC", "jdbc:oracle:thin:@192.168.1.99:1521:orcl", "teste", "leilei"));
+		try {
+			currentPC = java.net.InetAddress.getLocalHost().getHostName();
+		} catch (UnknownHostException ex) {
+			Logger.getLogger(LoginData.class.getName()).log(Level.SEVERE, null, ex);
+		}
+	}
+
+	public String getURL() {
+		return accounts.get(currentPC).getURL();
+	}
+	
+	public String getUsername() {
+		return accounts.get(currentPC).getUsername();
+	}
+
+	public String getPassword() {
+		return accounts.get(currentPC).getPassword();
+	}
+
+}
